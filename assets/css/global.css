@@ -1,0 +1,17 @@
+:root{
+    --link-color: #71A938;
+    --link-rgb-color: 241, 154, 62;
+    --link-dark-color: #4d7427;
+    --text-color: #212529;
+    --primary-color: #0078e7;
+    --primary-rgb-color: 113, 169, 56;
+}
+
+
+
+body {
+  color: #7e7e7e;
+  font-size: 12px;
+  background-color: #f0f2f5;
+}
+ 
